@@ -40,7 +40,7 @@ public class StudentManager {
             System.out.println("✅ Student added successfully!");
 
         } catch (NumberFormatException e) {
-            System.out.println("❌ Invalid number format.");
+//            System.out.println("❌ Invalid number format.");
         }
     }
 
